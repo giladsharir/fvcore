@@ -12,7 +12,6 @@ setup(
     "projects in FAIR computer vision team",
     install_requires=[
         "yacs>=0.1.6",
-        "pyyaml>=5.1",
         "tqdm",
         "portalocker",
         "termcolor>=1.1",
